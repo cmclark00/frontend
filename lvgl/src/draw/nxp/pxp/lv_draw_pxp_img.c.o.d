@@ -1,0 +1,25 @@
+CMakeFiles/lvgl.dir/src/draw/nxp/pxp/lv_draw_pxp_img.c.o: \
+ /home/corey/lvgl/src/draw/nxp/pxp/lv_draw_pxp_img.c \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ /home/corey/lvgl/src/draw/nxp/pxp/lv_draw_pxp.h \
+ /home/corey/lvgl/src/draw/nxp/pxp/../../../lv_conf_internal.h \
+ /home/corey/lvgl/src/draw/nxp/pxp/../../../lv_conf_kconfig.h \
+ /home/corey/lvgl/lv_conf.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/lib/gcc/aarch64-buildroot-linux-gnu/13.3.0/include/stdint.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdint.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/libc-header-start.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/features.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/features-time64.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/timesize.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/long-double.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/gnu/stubs-lp64.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/typesizes.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/time64.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/wchar.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stdint-intn.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stdint-uintn.h \
+ /home/corey/x-tools/aarch64-buildroot-linux-gnu/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stdint-least.h

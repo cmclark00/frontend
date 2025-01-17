@@ -10,7 +10,7 @@ else
     $(error Unsupported Device: $(DEVICE))
 endif
 
-CC = ccache $(CROSS_COMPILE)gcc -O3
+CC = ccache $(CROSS_COMPILE)gcc -g
 
 CFLAGS = $(ARCH) -flto=auto -ffunction-sections -fdata-sections \
 	-flto -finline-functions -Wall -Wno-format-zero-length -fPIC
